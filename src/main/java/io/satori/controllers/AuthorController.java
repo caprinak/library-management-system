@@ -18,7 +18,7 @@ import io.satori.models.Author;
 import io.satori.service.AuthorService;
 
 /**
- * @author oktay
+ * @author satori
  *
  */
 @Controller

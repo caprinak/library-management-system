@@ -17,7 +17,7 @@ import org.springframework.web.servlet.ModelAndView;
 import io.satori.models.Book;
 import io.satori.service.BookService;
 /**
- * @author oktay
+ * @author satori
  *
  */
 @Controller
